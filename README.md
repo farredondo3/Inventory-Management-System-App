@@ -14,3 +14,8 @@ JavaFX-SDK-17.0.1
 To run the program click the run program icon or run it in the main method of the main class.
 The report that is included is the inventory. The page tracks the amount of inventory ordered.
 
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i.imgur.com/Oz1sQJq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
