@@ -16,12 +16,12 @@ The report that is included is the inventory. The page tracks the amount of inve
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/dVV6Oil.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dVV6Oil.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/ZE0nc9l.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZE0nc9l.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
