@@ -31,3 +31,9 @@ Launch the utility: <br/>
 <img src="https://i.imgur.com/wXQvmgB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+  
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i.imgur.com/umi5aKe.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
