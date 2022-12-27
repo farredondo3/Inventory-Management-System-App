@@ -34,6 +34,6 @@ Launch the utility: <br/>
   
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/umi5aKe.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/umi5aKe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
