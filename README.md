@@ -21,7 +21,7 @@ Launch the utility: <br/>
 <br />
 
 <p align="center">
-Add a product: <br/>
+Add a part: <br/>
 <img src="https://i.imgur.com/ZE0nc9l.png" height="40%" width="40%"/>
 <br />
 <br />
