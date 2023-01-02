@@ -27,19 +27,19 @@ Add a part: <br/>
 <br />
   
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/wXQvmgB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+Add a product: <br/>
+<img src="https://i.imgur.com/wXQvmgB.png" height="40%" width="40%"/>
 <br />
 <br />
   
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/umi5aKe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/umi5aKe.png" height="80%" width="80%"/>
 <br />
 <br />
   
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/oMGsEZE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oMGsEZE.png" height="80%" width="80%"/>
 <br />
 <br />
